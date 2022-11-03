@@ -1,4 +1,4 @@
-<img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="300px" >
+<!-- <img src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif" width="300px" > -->
 
 <h1 align="center">Hi 👋, Softsyncdev</h1>
 <h3 align="center">We Provides Software Solutions</h3>
